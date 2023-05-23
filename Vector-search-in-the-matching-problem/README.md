@@ -1,4 +1,4 @@
-# Workshop от Яндекс.Практикум и Samokat.tech на [платформе Kaggle](https://www.kaggle.com/competitions/samokattechworkshop)
+# Workshop от Яндекс.Практикум и Samokat.tech на [Kaggle](https://www.kaggle.com/competitions/samokattechworkshop)
 
 ## Описание проекта
 
