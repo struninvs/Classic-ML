@@ -11,4 +11,5 @@
 **Recall@10 = (общая сумма найденных в топ10 матчей) / (общая сумма матчей)**
 
 Ссылка на соревнование: [Kaggle](https://www.kaggle.com/competitions/samokattechworkshop)
+
 Ссылка на мой профиль Kaggle: [fit2predict](https://www.kaggle.com/fit2predict)
